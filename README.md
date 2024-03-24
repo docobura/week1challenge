@@ -3,10 +3,11 @@ WeeK1: Code Challenge
 
 2024/03/22
 
-By Doc Obura 
+By Doc Obura https://github.com/docobura/week1challenge.git
 
 ## Description
-Three javascript scripts that do the following 
+Three javascript scripts that do the following
+
 1.grades.js - prompts the user to enter student marks and then outputs the correct grade:
 -run using node grades.js on terminal and enter inout then it will give output
 
